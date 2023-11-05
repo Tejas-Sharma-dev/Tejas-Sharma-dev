@@ -1,6 +1,6 @@
 ### Hello World 🌏
 
-**I'm Tejas Sharma, Software engineer with a passion for building innovative and scalable applications. Expertise in Python, Java, and JavaScript. Open source enthusiast and contributor to several popular projects.**
+**I'm Tejas Sharma, Software engineer with a passion for building innovative and scalable applications. Expertise in Python, and JavaScript. Open source enthusiast and Love to Collaborate Challenging Project**
 <!---
 ### Links
 
