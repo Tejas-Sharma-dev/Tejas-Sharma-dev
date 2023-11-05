@@ -11,9 +11,9 @@
 --->
 ### Skills
 
-* Programming languages: Python, Java, JavaScript
+* Programming languages: Python, JavaScript
 * Web development frameworks: React, Node.js
-* Cloud computing platforms: AWS, Azure
+* Cloud computing platforms: GCP
 * Open source tools and technologies: Git, GitHub
 
 ### Experience
