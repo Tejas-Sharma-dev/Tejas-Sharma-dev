@@ -1,3 +1,6 @@
+[![An image of @tj7droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tj7droid)](https://holopin.io/@tj7droid)
+
+<hr>
 
 # Hello World 🌏
 
@@ -21,10 +24,6 @@
 
 * Software Engineer at Capgemini (2022 - Present)
 * Software Engineer Intern at Arcaton Technologies (2021)
-
-<hr>
-
-[![An image of @tj7droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tj7droid)](https://holopin.io/@tj7droid)
 <!---
 TJ7-droid/TJ7-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
